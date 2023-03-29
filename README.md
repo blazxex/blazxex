@@ -1,7 +1,7 @@
 ## Hi there 👋
 <br>
 
->I am Ratchanon Thanatsant 
+>I am Ratchanon Thanatsang
 >
 >Now I am studying at **Chulalongkorn University**
 >
