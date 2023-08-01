@@ -10,9 +10,9 @@
 ### Programming languages skills
 [![My Skills](https://skillicons.dev/icons?i=js,py,cpp,css,html)](https://skillicons.dev)
 ### Framework Library and more tools
-[![My Skills](https://skillicons.dev/icons?i=django,react,vue,nodejs,express,firebase,bootstrap,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=django,react,vue,nodejs,express,firebase,bootstrap,mysql,docker)](https://skillicons.dev)
 ### What's I'm learning and going to learn
-[![My Skills](https://skillicons.dev/icons?i=go,nextjs,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,nextjs)](https://skillicons.dev)
 
 <br>
 
