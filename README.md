@@ -1,7 +1,8 @@
 <h1 align="center">Hi there 👋 I'm Ratchanon Thanatsang</h1>
 <p align="center">
-  🎓 Computer Engineering Student at <strong>Chulalongkorn University</strong><br/>
-  💻 Passionate about full-stack development, data-driven solutions, and tech startups<br/>
+  🏫 Value Creation Associate at <strong>Skydeck Education</strong> — transforming Thai bilingual private schools<br/>
+  🎓 Computer Engineering, <strong>Chulalongkorn University</strong> (First Class Honors)<br/>
+  💻 Full-stack engineer — Next.js, NestJS, PostgreSQL, Docker, AWS<br/>
   🌱 Always learning, always building
 </p>
 
@@ -18,27 +19,26 @@
 
 ### ⚙️ Frameworks, Libraries & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,express,nodejs,django,tailwind,firebase,mongodb,mysql,postgres,docker,vercel,graphql,redux,socketio,bootstrap" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,vue,nuxt,express,nodejs,django,tailwind,firebase,mongodb,mysql,postgres,docker,aws,vercel,graphql,redux,socketio,bootstrap" alt="Tools"/>
 </p>
 
 ---
 
 ### 🔭 Currently Learning & Exploring
 <p>
-  <img src="https://skillicons.dev/icons?i=kubernetes,aws,threejs,prisma" alt="Learning"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes,threejs,prisma,unity,pytorch" alt="Learning"/>
 </p>
-
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=blazxex&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=blazxex&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak Stats"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=blazxex&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20GitHub%20Activity%20Graph" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=blazxex&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=My%20GitHub%20Activity%20Graph" alt="Activity Graph"/>
 </p>
 
 ---
